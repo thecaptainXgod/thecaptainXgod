@@ -2,6 +2,7 @@
 ## नमस्ते डेवलपर्स 
 
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter & Golang
@@ -14,4 +15,6 @@ Here are some ideas to get you started:
 - Twitter: https://twitter.com/dabral_rajat
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love talking 😂
+
+![Profile views](https://gpvc.arturio.dev/thecaptainXgod)
 
