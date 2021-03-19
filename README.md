@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Youtube: https://www.youtube.com/channel/UCnCmfzzD1tmd0Gba1sNv2mQ
 - Twitter: https://twitter.com/dabral_rajat
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love talking 😂
+- ⚡ Fun fact: I am mythology geek & can talk about anything.
 
 ![Profile views](https://gpvc.arturio.dev/thecaptainXgod)
 
