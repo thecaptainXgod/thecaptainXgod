@@ -2,9 +2,6 @@
 ## नमस्ते डेवलपर्स 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Flutter & Golang
 - 🌱 I’m currently learning IOS
 - 🤔 I’m looking for Back-end developers 
