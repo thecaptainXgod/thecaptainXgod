@@ -2,7 +2,7 @@
 ## नमस्ते डेवलपर्स 
 
 
-- I'm the CTO of Tempo Inc: links; https://tempospace.co/ , https://moonbase.biz/
+- I'm the CTO of Tempo Inc: https://tempospace.co/  & Moonbase AI:  https://moonbase.biz/
 - Currently working on developing MSU's first internal AI 
 - 🔭 I’m an expert on Flutter & Golang
 - 🌱 I’m currently learning IOS
