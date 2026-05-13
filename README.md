@@ -148,8 +148,6 @@
 
 </div>
 
-> 💡 **If stats cards show broken images:** GitHub caches README images aggressively. Try a hard refresh (`Ctrl+Shift+R` / `Cmd+Shift+R`) or open the profile in a private window.
-
 ---
 
 ### `// building`
